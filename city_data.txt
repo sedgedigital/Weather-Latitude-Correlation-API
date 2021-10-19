@@ -1,0 +1,13 @@
+City
+Country
+Cloudiness
+Date
+Humidity
+Lat
+Lng
+Max Temp
+Min Temp
+Pressure
+Wind Speed
+Real Feel Temp
+City ID
