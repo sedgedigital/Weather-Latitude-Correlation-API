@@ -1,600 +1,632 @@
-kapaa
-cruz alta
-hasaki
-coos bay
-mataura
-vaini
-roald
-alofi
-duz
-puerto ayora
-taolanaro
-punta arenas
-cape town
-tongren
-afyonkarahisar
-rikitea
-bluff
-busselton
-qaanaaq
-vao
-antofagasta
-faanui
-san joaquin
-rungata
-marsa matruh
-jamestown
-puerto gaitan
-bone
-san vicente
-hermanus
-belushya guba
-chokurdakh
-lahij
-amderma
-berlevag
-una
-notre-dame-du-lac
-albany
-nizhneyansk
-maryville
-lebu
-arlit
-port alfred
-pucallpa
-ushuaia
-narsaq
-gimli
-paamiut
-pokhara
-alta floresta
-namatanai
-dikson
-victoria
-east london
-hobart
-ribeira grande
-upernavik
-rawson
-bathsheba
 yellowknife
-nouadhibou
-lago da pedra
-aklavik
-marshfield
-barentsburg
-sitka
-bambous virieux
-san marcos
-mogadishu
-new norfolk
-saint-augustin
-codrington
-saint-philippe
-mahebourg
-leningradskiy
-warqla
-nikolskoye
-santarem
-khudumelapye
-selfoss
-ciudad bolivar
-amga
-grindavik
-honiara
-kiama
-jiaojiang
-hithadhoo
-nelson bay
-butaritari
-el dorado
-tuatapere
-yanan
-beausejour
-atuona
-port-cartier
-broome
-barrow
-chitral
-cap-aux-meules
-odweyne
-oriximina
-mardin
-hami
-bengkulu
-lasa
-tiksi
-illoqqortoormiut
-carnarvon
-mar del plata
-sabang
-harer
-cookeville
-pingzhuang
-tecoanapa
-samusu
-cabedelo
-tevaitoa
-meyungs
-ridgecrest
-mount gambier
-luanda
-dingle
-port blair
-kismayo
-ancud
-bako
-los llanos de aridane
-tsihombe
-benghazi
-bojonegoro
-marcona
-avarua
-la ronge
-adrar
-geraldton
-ponta do sol
-finschhafen
-provideniya
-thompson
-ilulissat
-sao filipe
-dunedin
-khatanga
-severo-kurilsk
-rosario do sul
-bambanglipuro
-san luis
-goderich
-vila
-port hardy
-dujuma
-iranshahr
-casa grande
-westport
-puerto pinasco
-martapura
-iqaluit
-mys shmidta
-kirakira
-oromocto
-norman wells
-kamina
-castro
-mehamn
-bangolo
-saurimo
-komsomolskiy
-fare
-kavieng
-nebolchi
-yantzaza
-pemangkat
-bredasdorp
-coihaique
-yichun
-hambantota
-port elizabeth
-cabo san lucas
-tuktoyaktuk
-enshi
-sinkat
-touros
-lolua
-saskylakh
-belem
-mocuba
-cidreira
-patos de minas
-moose factory
-umzimvubu
-santa isabel do rio negro
-ushtobe
-warrington
-amli
-dembi dolo
-oranjemund
-lavrentiya
-tasiilaq
-berezovyy
-husavik
-bethel
-torbay
-souillac
-tutoia
-magnolia
-mayumba
-centralia
-edwardsville
-calama
-clyde river
-cumana
-calbuco
-vardo
-soyo
-arraial do cabo
-half moon bay
-luganville
-bud
-acapulco
-los andes
-turayf
-kidal
-palabuhanratu
-ahuimanu
-bull savanna
-nyagan
-nyurba
-phan rang
-robat karim
-doha
-ambon
-lompoc
-laguna
-tual
-vila franca do campo
-rocha
-high level
-saldanha
-porto novo
-deer lake
-sistranda
-yumen
-kodiak
-smithers
-olden
-panjab
-traverse city
-cambuquira
-georgetown
-halalo
-riyadh
-hobara
-thaba-tseka
-leno
-fort payne
-pacifica
-sinnamary
-niksar
-vestmannaeyjar
-kholodnyy
-harindanga
-pudozh
-mandiana
-itaituba
-strezhevoy
-samarai
-costache negri
-floro
-makakilo city
-longyearbyen
-karasjok
-muzhi
-kruisfontein
-minna
-zalantun
-fairbanks
-pekan
-guozhen
-rengasdengklok
-mouzouras
-kachug
-pevek
-luang prabang
-karratha
-baie-saint-paul
-krasnyy luch
-san policarpo
-sentyabrskiy
-acarau
-khipro
-budeasa
-fort nelson
-zaraza
-thinadhoo
-ambovombe
-puri
-esperance
-mayo
-wajid
-san cristobal
-noyabrsk
-san
-dickinson
-attawapiskat
-osypenko
-gamba
-yerbogachen
-deputatskiy
-airai
-tidore
-bacalar
-cap malheureux
-raga
-darhan
-surt
-chuy
-wangqing
-grand river south east
-kerteh
-hilo
-vaitupu
-nisia floresta
-shimoda
-ahipara
-iaciara
-terney
-natal
-lardos
-sao jose da coroa grande
-mahadday weyne
-sept-iles
-gubkinskiy
-lagoa
-guerrero negro
-piedras amarillas
-mezen
-rahatgarh
-baykalsk
-saleaula
-mao
-dabra
-avera
-northam
-tezu
-mangrol
-haines junction
-kaitangata
-aasiaat
-ewa beach
-grand gaube
-kahului
-taksimo
-luau
-ojinaga
-san andres
-tigil
-wahiawa
-vanavara
-mariel
-nabire
-puerto leguizamo
-nanortalik
-olafsvik
-margate
-bubaque
-znamenskoye
-kudahuvadhoo
-murighiol
-khalabat
-tautira
-bartica
-craig
-tukrah
-brigantine
-taoudenni
-lusambo
-necochea
-matara
-kuusamo
-sebezh
-ponta delgada
-linqiong
-tilichiki
-comodoro rivadavia
-istok
-guaruja
-abbeyfeale
-rio grande
-ruteng
-marawi
-kristiansund
-longavi
-george town
-yulara
-nemuro
-vigevano
-canutama
-naftah
-chatellerault
-kologriv
-paicandu
-nuuk
-dvinskoy
-thap than
-port hedland
-burevestnik
-flinders
-san patricio
-spirovo
-katsuura
-cleburne
-cockburn town
-maragogi
-inhambane
-bridlington
-leon valley
+dale
 hamilton
-providencia
-misratah
-shubarkuduk
-huarmey
-palmer
-coquimbo
-drumheller
-havre-saint-pierre
-inyonga
-lincoln
-aktanysh
-milas
-farafangana
-pinawa
-gat
-tupik
-mackenzie
-tiarei
-mount vernon
-lucapa
-hay river
-gilazi
-ajdabiya
-beloha
-maghama
-nerchinskiy zavod
-ippy
-morant bay
-svetlyy
-rennes
-porto santo
-noumea
-kalmunai
-uruguaiana
-yar-sale
-cherskiy
-cabra
-bargal
-nakamura
-barawe
-marsh harbour
-changji
-timra
-saint george
-tabas
-rapid valley
-okhotsk
-lulea
-dole
-formosa
-banjarmasin
-batsfjord
-buin
-tefe
-gizycko
-morondava
-carinhanha
-egvekinot
-cheney
-el molino
-talcahuano
-flin flon
-sindand
-treinta y tres
-male
-kulhudhuffushi
-shingu
-vesyegonsk
-novo cruzeiro
-shelburne
-jucurutu
-skibbereen
-portland
-bullhead city
-shache
-pinyug
-vredendal
-ust-kamchatsk
-luena
-buala
-togur
-topeka
-xiongyue
-mangai
-del rio
-copiapo
-vysokogornyy
-oktyabrskoye
-bontang
-dois vizinhos
-kysyl-syr
-hvide sande
-koulikoro
-pacific grove
-manggar
-aykhal
-san quintin
-maningrida
-picos
-tsevie
-kholtoson
-orguz
-winsum
-port lincoln
-sarangani
-ordu
-poum
-alice springs
-ostrovnoy
-villarrobledo
-brokopondo
-santa cruz
-obo
-zilair
-alghero
-pisco
-caldas novas
-sao joao da barra
-nome
-porto de moz
-collie
-kaseda
-berberati
-sorland
-basco
-brookhaven
-muros
+hermanus
+umm lajj
+kruisfontein
+albany
+busselton
+geraldton
+bluff
+cozumel
+lebu
+thompson
+rikitea
+punta arenas
+jumla
+saskylakh
+codrington
+vaitupu
+mataura
 constitucion
-lorengau
-klaksvik
-edenderry
-rincon
-sangin
-eskasem
-amazar
-alvorada
-solnechnyy
-humboldt
-ouallam
-perehonivka
-mikhaylovskoye
-parabel
-bhadrak
-valentin gomez farias
-jinchang
-pirovskoye
-sembe
-biltine
-zhanakorgan
-naze
-grand-santi
-cochrane
-isangel
-long beach
-jiaohe
-uwayl
+cape town
+new norfolk
+sataua
+bosaso
+ushuaia
+allapalli
+nizhneyansk
+kaitangata
+avarua
+cabo san lucas
+cidreira
+belushya guba
+east london
+vardo
+mar del plata
+hasaki
+victoria
+bechem
+hovd
+taolanaro
+baykit
+sao joao da barra
+bredasdorp
+barrow
+henties bay
+labuhan
+qianan
+shache
+vaini
+pochutla
+nizhniy kuranakh
+celestun
+nikolskoye
+westport
+awbari
+muravlenko
+carnarvon
+butaritari
+najran
+saint-philippe
+puerto ayora
+qaanaaq
+portland
+kaeo
+gao
+ambilobe
+burica
+faanui
+changji
+te anau
+taoudenni
+tuktoyaktuk
+port keats
+upernavik
+makakilo city
+ponta do sol
+mahebourg
+hilo
+juba
+yingshang
+sept-iles
+bichena
+kumluca
+ilulissat
+kuche
+simao
+tiksi
+polis
+gravdal
+matara
+fallon
+mildura
+loandjili
+nao-me-toque
+sennan
+angatuba
+hit
+sudak
+santa cruz
+atuona
+kintampo
+arauco
+mandera
+avrille
+kapaa
+mariental
+illoqqortoormiut
+iskateley
+launceston
+sinnamary
+bay roberts
+hay river
+keti bandar
+limbang
+severo-kurilsk
+marcona
+hualmay
+narsaq
+turukhansk
+west wendover
+jamestown
+port alfred
+pedasi
+khonuu
 brae
-urusha
-pasighat
-vanimo
-kulynychi
-salalah
-tura
-sidney
-vizinga
+san patricio
+parana
+south lake tahoe
+lorengau
+lompoc
+touros
+ribeira grande
+castro
+aitape
+virbalis
+vestmannaeyjar
+bilma
+provideniya
+phrae
+bambous virieux
+oistins
+dawei
 louisbourg
-buariki
-waipawa
-port macquarie
-barcelos
-dubenskiy
-senneterre
-inirida
-tarakan
-fayaoue
-yuncheng
-bertoua
-tazovskiy
-starup
-conceicao da barra
+datong
+zhangjiakou
+arraial do cabo
+manuk mangkaw
+ust-maya
+hazebrouck
+wainwright
+amderma
+yumen
+tautira
+naro moru
+natal
+butterworth
+palmer
+khor
+fortuna
+atyrau
+padang
+campbell river
+monrovia
+krasnoselkup
+broome
+sembe
+kieta
+kahului
+ulaanbaatar
+sentyabrskiy
+kiruna
+ruatoria
+baruun-urt
+georgetown
+half moon bay
+solovetskiy
+segou
+attawapiskat
+sibolga
+north bend
+port elizabeth
+quatre cocos
+tasiilaq
+silver city
+bengkulu
+ahipara
+dikson
+roquetas de mar
+odessa
+bethel
+irbeyskoye
+havelock
+dingle
+torbay
+fairbanks
+gat
+taywarah
+lagoa
+norman wells
+northam
+hambantota
+kisangani
+yanaul
+maputo
+goure
+meyungs
+christchurch
+aklavik
+kodiak
+jesi
+walvis bay
+norrtalje
+mawlaik
+baloda bazar
+asti
+agadez
+khatanga
+porto novo
+nantucket
+deputatskiy
+tabiauea
+saleaula
+owando
+ust-karsk
+salalah
+hobart
+longyearbyen
+karratha
+tsihombe
+ancud
+korla
+dudinka
+katherine
+bairiki
+vao
+kavieng
+asbury park
+chitrakonda
+saint-pierre
+mehamn
+martapura
+viligili
+deep river
+srednekolymsk
+mayor pablo lagerenza
+vila velha
+ozgon
+pevek
+bulungu
+azimur
+nagato
+eldikan
+toktogul
+valer
+ha giang
+byron bay
+sarangani
+rabo de peixe
+botwood
+alyangula
+maldonado
+iquique
+santa maria
+deder
+mandalgovi
+lianran
+sitka
+altamont
+uyuni
+sola
+manokwari
+balakhninskiy
+conde
+porto velho
+watertown
+saryshagan
+coruripe
+darhan
+kingaroy
+muros
+samusu
+maniitsoq
+buala
+corrente
+regeneracao
+walsall
+necochea
+pemangkat
+nanma
+pisco
+tigil
+laurel
+ossora
+tura
+labutta
+porbandar
+binzhou
+moron
+port hardy
+roebourne
+beidao
+waw
+esperance
+sterling
+kampong thum
+prabumulih
+amurzet
+omboue
+mareeba
+lethem
+hagi
+khani
+urubicha
+kayerkan
+phangnga
+miramar
+cotonou
+tual
+bathsheba
+karamay
+azangaro
+buta
+roald
+sorland
+chara
+grindavik
+matay
+searcy
+sofiysk
+komsomolskiy
+talnakh
+popondetta
+dunedin
+sao filipe
+kralendijk
+luba
 kavaratti
+monte alegre
+lashio
+alice springs
+khandyga
+platteville
+basoko
+hithadhoo
+waingapu
+huancavelica
+mersin
+namatanai
+evensk
+pedernales
+mahibadhoo
+ko samui
+berlevag
+margate
+akdepe
+cheney
+bolu
+abiy adi
+tavda
+klaksvik
+eskasem
+barcelos
+barentsburg
+bubaque
+dickinson
+coquimbo
+salinopolis
+vilhena
+teguise
+ngukurr
+tuy hoa
+airai
+mount gambier
+deh rawud
+policoro
+waynesville
+dodoma
+visnes
+bolungarvik
+thinadhoo
 luderitz
-trinidad
+sayyan
+saldanha
+poum
+kamenskoye
+bayan
+olafsvik
+zalantun
+talcahuano
+gornyak
+the valley
+palembang
+mana
+polovinnoye
+masterton
+west bay
+bandarbeyla
+sambava
+aporawan
+dolbeau
+burgersdorp
+preston
+teya
+souillac
+aykhal
+faya
+grenada
+ust-charyshskaya pristan
+holme
+taltal
+eenhana
+hays
+lubao
+hami
+shelburne
+bharatpur
+gimli
+mitsamiouli
+kerteh
+novotroitskaya
+la ronge
+chokurdakh
+kazalinsk
+palabuhanratu
+sao gabriel da cachoeira
+kenai
+turan
+cartagena del chaira
+clyde river
+villa bruzual
+emba
+meulaboh
+birjand
+presidencia roque saenz pena
+batemans bay
+lata
+mazamari
+ukiah
+banes
+mogadishu
+tianpeng
+nome
+pala
+rincon
+dingli
+garhi khairo
+tocopilla
+vila
+vila franca do campo
+paytug
+neuquen
+katsuura
+fort payne
+acapulco
+sumbe
+mys shmidta
+lagunas
+barra do garcas
+galle
+lillooet
+grand gaube
+bani walid
+vanimo
+nadym
+haines junction
+fevralsk
+tuatapere
+kota kinabalu
+ugoofaaru
+beloha
+morgan city
+cherskiy
+araouane
+leningradskiy
+songadh
+ashqelon
+morros
+yarmouth
+udgir
+luwuk
+arlit
+comodoro rivadavia
+topeka
+inuvik
+okha
+strezhevoy
+cap malheureux
+barra da estiva
+valga
+ambulu
+port lincoln
+warrnambool
+buchanan
+mombetsu
+sovetskaya gavan
+tiquisate
+saint-augustin
+high prairie
+kiunga
+kedrovyy
+atasu
+benguela
+miri
+halifax
+boende
+lulea
+kjollefjord
+plastun
+atar
+rio gallegos
+scalloway
+nevers
+verdalsora
+mamlyutka
+mayo
+sakakah
+concepcion del uruguay
+baboua
+nanortalik
+poya
+mazatlan
+roma
+muroto
+trat
+kapurthala
+guerrero negro
+beringovskiy
+sarkand
+san policarpo
+izhma
+bowen
+isangel
+odesskoye
+hobyo
+bunia
+turi
+kyaikto
+basco
+zlitan
+bjornevatn
+kaspiysk
+kodinsk
+ostrovnoy
+athabasca
+wajid
+kawalu
+kitimat
+yefira
+bakchar
+namwala
+bonfim
+waipawa
+rawson
+itoman
+lively
+belmonte
+flin flon
+sur
+kolosovka
+aksarka
+colares
+tsiroanomandidy
+tsaratanana
+dwarka
+praia da vitoria
+pacific grove
+toamasina
+ulladulla
+iqaluit
+cayenne
+dakar
+tecoanapa
+whyalla
+san fernando
+castelo branco
+cabinda
+bambanglipuro
+kushmurun
+opuwo
+nhulunbuy
+coos bay
+san quintin
+veinticinco de mayo
+nanding
+flic en flac
+aflu
+santa marta
+mattru
+altay
+dalbandin
+mabamba
+vidim
+zhezkazgan
+san pedro de ycuamandiyu
+rio grande
+buraydah
+coihaique
+saint george
+bac can
+harper
+stamsund
+aksu
+bagrami
+bail hongal
+madang
+gulshat
+pangody
+finschhafen
+disna
+juneau
+mackay
+yazykovo
+nuuk
+nizhneangarsk
+ploemeur
+noormarkku
+loukhi
+barinas
+yajalon
+marfino
+quimper
+florina
+greenville
+sabla
+manta
+baiyin
+asau
+luangwa
+ustrzyki dolne
+joshimath
+amberley
